@@ -10,7 +10,7 @@ function clicked(){
     //changeable code
     if(time==1){
         tc="A.Note        v1.0 (Java)";
-        dtc="A.Note v1.0.jar"
+        dtc="Drawing.jar"
     }else if(time==2){
         tc="A.Note        v1.1 (Java)";
         dtc="A.Note v1.1.jar"
