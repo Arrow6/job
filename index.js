@@ -17,7 +17,7 @@ function clicked(){
     }
     var text=document.createElement("a");
     text.download=dtc;
-    text.href="";
+    text.href=dtc;
     text.onclick="clicked()";
     text.textContent=tc;
     document.body.appendChild(text);
